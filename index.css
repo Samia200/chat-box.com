@@ -3,7 +3,7 @@
     padding: 0;
 }
 .container{
- max-width: 500px !important;
+ max-width: 400px !important;
  margin: auto;
  font-family: sans-serif;
  letter-spacing: 0.5px;
@@ -125,7 +125,7 @@ img{
 .outgoing-chats-msg{
     float: left;
     width: 46%;
-    margin-left: 41%;
+    margin-left: 38%;
 }
 .outgoing-chats-img{
     display: inline-block;
@@ -168,17 +168,17 @@ input{
 .input-group i{
     color: #007BFF;
     float: right;
-    padding: 15px;
+    padding: 12px;
 }
 .bottom-icons{
     float: left;
-    margin-top: 17px;
+    margin-top: 19px;
     width: 26% !important;
-    margin-left: 22px;
+    margin-left: 15px;
 }
 .bottom-icons i{
     color: #fff;
-    padding: 5px;
+    padding: 2px;
 }
 .form-control:focus{
  border-color: none !important;
