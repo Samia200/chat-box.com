@@ -152,7 +152,7 @@ img{
 @media screen and(max-width : 364px) {
     .input-group{
         width: 59%;
-    }
+   }
 }
 .form-control{
     padding-left: 4px;
